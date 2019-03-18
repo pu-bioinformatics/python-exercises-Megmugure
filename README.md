@@ -8,3 +8,5 @@ For each of the exercises in in the Jupyter Notebooks, you are required to creat
 
 
 Work through all the exercises to notebook 6
+
+# The scripts I have uploaded document the answers to the exercises in the respective notebooks.
