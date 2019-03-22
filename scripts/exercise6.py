@@ -4,6 +4,7 @@
 
 def percentageGC(trna):
     """This function calculates the %GC content of a DNA sequence"""
+    #CK You need to check if the DNA is valid -2
     trna = trna.upper()
     G_count=trna.count('G')
     C_count=trna.count('C')
@@ -21,7 +22,7 @@ def dnafunc(dna):
     bases = 'ATGC'
     for base in dna:
         if base not in bases:
-            return ("This is not a valid DNA")
+            return ("This is not a valid DNA") ##CK: Use true or false in order to reuse this in the other script -1
     else:
         return ("This is a valid DNA")
 

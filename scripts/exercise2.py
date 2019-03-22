@@ -16,7 +16,7 @@ T_content=trna.count('T')
 ###calculating percent GC and percent AT content
 AT_content=((A_content + T_content)/len(trna))*100
 GC_content=((G_content + C_content)/len(trna))*100
-print(AT_content)
+print(AT_content) # Ass messages to make the print out informative -1
 print(GC_content)
 print("The trna has a GC content of %.3f and AT content of %.3f The length of the DNA is %d." % (GC_content, AT_content, len(trna)))
 

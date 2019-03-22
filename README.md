@@ -10,3 +10,7 @@ For each of the exercises in in the Jupyter Notebooks, you are required to creat
 Work through all the exercises to notebook 6
 
 # The scripts I have uploaded document the answers to the exercises in the respective notebooks.
+
+## Comments
+- Provde more information about the content and structure of your repo -1
+- You haven't included the bnk script -1 
